@@ -1,0 +1,8 @@
+Drag these folders and files:
+├── index.html              (your main HTML file)
+├── edulearn-backend/       (backend folder)
+│   ├── server.js
+│   ├── package.json
+│   └── package-lock.json
+└── edulearn-frontend/      (frontend folder)
+    └── index.html          (if you have separate frontend)
